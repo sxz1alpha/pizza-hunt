@@ -12,7 +12,7 @@ let pizzaId;
 function getPizza() {
   // get id of pizza 
   const searchParams = new URLSearchParams(document.location.search.substring(1));
-  const pizzaId= search.searchParams.getAttribute('id');
+  const pizzaId= searchParams.get('id');
 
   // get pizzaIngo
   fetch(`/api/pizzas/${pizzaId}`)

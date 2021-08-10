@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "wayou.vscode-todo-highlight",
+        "shan.code-settings-sync",
+        "wallabyjs.quokka-vscode",
+        "esbenp.prettier-vscode",
+        "techer.open-in-browser",
+        "christian-kohler.npm-intellisense",
+        "pkief.material-icon-theme",
+        "ritwickdey.liveserver",
+        "eamodio.gitlens",
+        "dsznajder.es7-react-js-snippets",
+        "streetsidesoftware.code-spell-checker",
+        "coenraads.bracket-pair-colorizer",
+        "formulahendry.auto-close-tag"
+    ]
+}
